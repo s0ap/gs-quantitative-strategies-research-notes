@@ -5,9 +5,9 @@ Back in the 90's, Goldman Sachs released a series of papers called "Quantitative
 # Papers
 
 - [x] Understanding Guaranteed Exchange-Rate Contracts In Foreign Stock Investments. Emanuel Derman, Piotr Karasinski and Jeffrey Wecker
-- [ ] Valuing and Hedging Outperformance Options. Emanuel Derman
+- [x] Valuing and Hedging Outperformance Options. Emanuel Derman
 - [ ] Pay-On-Exercise Options. Emanuel Derman and Iraj Kani
-- [ ] The Ins and Outs of Barrier Options. Emanuel Derman and Iraj Kani
+- [x] The Ins and Outs of Barrier Options. Emanuel Derman and Iraj Kani
 - [x] The Volatility Smile and Its Implied Tree. Emanuel Derman and Iraj Kani
 - [x] Static Options Replication. Emanuel Derman, Deniz Ergener and Iraj Kani
 - [x] Enhanced Numerical Methods for Options with Barriers. Emanuel Derman, Iraj Kani, Deniz Ergener and Indrajit Bardhan
